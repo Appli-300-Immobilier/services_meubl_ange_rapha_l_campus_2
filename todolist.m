@@ -1,7 +1,7 @@
-# To-Do List for Services Meubl� ange Rapha�l (campus 2) Website
+# To-Do List for Services Meublé ange Raphaél (campus 2) Website
 
 ## Project Overview
-- **Company Name:** Services Meubl� ange Rapha�l (campus 2)
+- **Company Name:** Services Meublé ange Raphaél (campus 2)
 - **Directory:** services_meubl_ange_rapha_l_campus_2
 - **Address/Contact:** 
   - " Douala, Cameroon
@@ -29,7 +29,7 @@
 ### 2. Configuration
 - [ ] Update package.json:
   - Name: services-meubl-ange-rapha-l-campus-2  - Version: 0.1.0- [ ] Update index.html:
-  - Title: Services Meubl� ange Rapha�l (campus 2)  - Meta description: https://www.facebook.com/profile.php?id=61560857051494...
+  - Title: Services Meublé ange Raphaél (campus 2)  - Meta description: https://www.facebook.com/profile.php?id=61560857051494...
 ### 3. Branding & Content
 - [ ] **Logo:** 
   - Source: Create a placeholder logo  - Action: Copy to src/assets/logo.png (or svg).
@@ -45,7 +45,7 @@ theme.extend.colors.primary to match the brand.
 
 ### 4. Content Integration
 - [ ] **Home Page (src/pages/public/Home.jsx):
-  - Replace the hero title with "Services Meubl� ange Rapha�l (campus 2)".
+  - Replace the hero title with "Services Meublé ange Raphaél (campus 2)".
   - Update the subtitle with: "https://www.facebook.com/profile.php?id=61560857051494".
   - Update "Featured Products" if specific images/products are provided (currently using mock data).
 - [ ] **About Page (src/pages/public/About.jsx):
